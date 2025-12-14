@@ -1,0 +1,66 @@
+================================================================================
+REVIEWINSIGHT - TEXT ANALYTICS REPORT
+================================================================================
+Generated on: 2025-12-14 13:42:03
+
+1. DATASET OVERVIEW
+--------------------------------------------------------------------------------
+Total Reviews: 51
+Valid Reviews: 51
+Empty Reviews: 0
+
+2. TEXT STATISTICS
+--------------------------------------------------------------------------------
+Average Review Length: 17.37 words
+Median Review Length: 17.0 words
+Shortest Review: 13 words
+Longest Review: 23 words
+Average Character Count: 110.12 characters
+
+3. RATING ANALYSIS
+--------------------------------------------------------------------------------
+Average Rating: 3.43 / 5.0
+Rating Range: 1 - 5
+
+Rating Distribution:
+  5 stars:   19 ( 37.3%) ██████████████████
+  4 stars:    9 ( 17.6%) ████████
+  3 stars:    7 ( 13.7%) ██████
+  2 stars:    7 ( 13.7%) ██████
+  1 stars:    9 ( 17.6%) ████████
+
+4. MOST COMMON WORDS (TOP 20)
+--------------------------------------------------------------------------------
+Rank   Word                 Frequency    Visual
+--------------------------------------------------------------------------------
+1      quality              13           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+2      use                  7            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+3      better               7            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+4      purchase             7            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+5      works                6            ▓▓▓▓▓▓▓▓▓▓▓▓▓
+6      features             6            ▓▓▓▓▓▓▓▓▓▓▓▓▓
+7      performance          6            ▓▓▓▓▓▓▓▓▓▓▓▓▓
+8      every                6            ▓▓▓▓▓▓▓▓▓▓▓▓▓
+9      good                 5            ▓▓▓▓▓▓▓▓▓▓▓
+10     best                 5            ▓▓▓▓▓▓▓▓▓▓▓
+11     made                 5            ▓▓▓▓▓▓▓▓▓▓▓
+12     nothing              5            ▓▓▓▓▓▓▓▓▓▓▓
+13     great                5            ▓▓▓▓▓▓▓▓▓▓▓
+14     highly               4            ▓▓▓▓▓▓▓▓▓
+15     reliable             4            ▓▓▓▓▓▓▓▓▓
+16     customer             4            ▓▓▓▓▓▓▓▓▓
+17     money                4            ▓▓▓▓▓▓▓▓▓
+18     overall              4            ▓▓▓▓▓▓▓▓▓
+19     poor                 4            ▓▓▓▓▓▓▓▓▓
+20     work                 4            ▓▓▓▓▓▓▓▓▓
+
+5. KEY INSIGHTS
+--------------------------------------------------------------------------------
+• Reviews have moderate length, showing standard engagement levels
+• Most discussed topics: 'quality', 'use', 'better'
+• Mixed sentiment (avg rating: 3.43/5.0)
+• Good data quality with minimal missing reviews
+
+================================================================================
+End of Report
+================================================================================
